@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+*.egg-info/
+*.egg
+
+# Jupyter Notebook
+*.ipynb_checkpoints/
+
+# Environments
+.env
+env/
+*.env
+
+# Data
+*.csv
+*.data
+*.txt
+
+# Misc
+*.log
+*.DS_Store
