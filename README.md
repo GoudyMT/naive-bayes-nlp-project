@@ -1,7 +1,7 @@
 # Naive Bayes NLP Project
 
 ## Overview
-This project develops a spam detection model for SMS messages using Naive Bayes with Scikit-Learn, applied to the SMS Spam Collection dataset. The goal is to showcase advanced NLP and machine learning skills for a GitHub portfolio, emphasizing text classification, feature engineering, and model evaluation. The best model, a tuned Complement Naive Bayes pipeline, achieves an F1-score of 0.9703 and recall of 98.66%, outperforming alternatives like Logistic Regression. The project includes data preprocessing, hyperparameter tuning, handling class imbalance, and professional visualizations (static with Matplotlib/Seaborn, interactive with Plotly), making it a comprehensive demonstration of industry-standard practices.
+This project develops a spam detection model for SMS messages using Naive Bayes with Scikit-Learn, applied to the SMS Spam Collection dataset. The goal is to showcase advanced NLP and machine learning skills, emphasizing text classification, feature engineering, and model evaluation. The best model, a tuned Complement Naive Bayes pipeline, **achieves an F1-score of 0.9703 and recall of 98.66%**, outperforming alternatives like Logistic Regression. The project includes data preprocessing, hyperparameter tuning, handling class imbalance, and professional visualizations (static with Matplotlib/Seaborn, interactive with Plotly).
 
 Key features:
 - **NLP Preprocessing**: Text cleaning, TF-IDF vectorization with trigrams, and custom features (e.g., message length).
